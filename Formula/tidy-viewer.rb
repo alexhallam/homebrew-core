@@ -4,6 +4,7 @@ class TidyViewer < Formula
   url "https://github.com/alexhallam/tv"
   version "0.0.20"
   sha256 "98ae51622763d8ef62fd163dcec88842dcfc0c1cdcbdaf2c5d8ae72d63858cb5"
+  license "UNLICENSE"
 
   def install
     bin.install "tidy-viewer"
